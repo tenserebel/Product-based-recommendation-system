@@ -18,3 +18,5 @@ Some randomly selected product efficiency:
  3. Sklearn 
  4. MongoDB as Databases  
  5. Streamlit for UI  
+
+![](images/Capture.PNG)
