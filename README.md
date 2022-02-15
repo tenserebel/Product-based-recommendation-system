@@ -24,3 +24,6 @@ Some randomly selected product efficiency:
 
 ### Home UI: 
 ![](images/home.PNG)
+
+### Database structure: 
+![](images/database.PNG)
