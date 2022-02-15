@@ -19,4 +19,4 @@ Some randomly selected product efficiency:
  4. MongoDB as Databases  
  5. Streamlit for UI  
 
-![](images/home-ui.PNG)
+![](images/home ui.PNG)
