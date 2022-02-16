@@ -47,7 +47,7 @@ def mongo_upload():
             st.error("some error occured")
 
 st.title('Amazon Recommendation system')
-client = mongo_connect("mongodb+srv://premjha:smita3010@cluster0.wrsva.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+client = mongo_connect("")# link for the mongodb connection.
 db = client.name1
 name=st.text_input("Enter your name here:")
 if st.button("Enter data"):
